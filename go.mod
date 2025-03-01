@@ -1,4 +1,4 @@
-module web-change-check
+module webcheck
 
 go 1.24.0
 
